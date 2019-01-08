@@ -2,6 +2,9 @@
 <a href="https://www.jianshu.com/p/05be80475bff">Docker Compose和Docker Stack区别</a>
 <p>
 
+## DDD <p>
+<a href="https://www.jianshu.com/p/a63ef3ef1f94">A quick and practical example of Hexagonal Architecture in Java</a>
+<p>
 ## axon <p>
 <a href="https://www.jianshu.com/c/d52a49f833b1">axon框架</a>
 <p>

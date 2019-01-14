@@ -17,6 +17,8 @@
 ## 微服务 <p>
 <a href="https://www.jianshu.com/p/f6d280df6340">微服务断路器实现：Istio和Hystrix区别架</a>
 <p>
+  <a href="https://www.jianshu.com/p/f45ac6ba0b4f">Spring Boot Security Jwt Authentication</a>
+<p>
   
 
 ## cassandra <p>

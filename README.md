@@ -17,9 +17,11 @@
 ## 微服务 <p>
 <a href="https://www.jianshu.com/p/f6d280df6340">微服务断路器实现：Istio和Hystrix区别架</a>
 <p>
-  <a href="https://www.jianshu.com/p/f45ac6ba0b4f">Spring Boot Security Jwt Authentication</a>
-<p>
+  <a href="https://www.jianshu.com/p/f45ac6ba0b4f">Spring Boot Security Jwt Authentication</a> <p>
   
+  <a href="https://www.jianshu.com/p/9e5fd0c508cb"> 优雅地关闭spring boot应用程序</a>
+<p>
+ 
 
 ## cassandra <p>
 <a href="https://www.jianshu.com/p/bcaf5a8d8530">深入理解CQL中的Where子句</a><p>

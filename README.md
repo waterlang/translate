@@ -19,7 +19,10 @@
 <p>
   <a href="https://www.jianshu.com/p/f45ac6ba0b4f">Spring Boot Security Jwt Authentication</a> <p>
   
-  <a href="https://www.jianshu.com/p/9e5fd0c508cb"> 优雅地关闭spring boot应用程序</a>
+  <a href="https://www.jianshu.com/p/9e5fd0c508cb"> 优雅地关闭spring boot应用程序</a><p>
+  
+  <a href="https://www.jianshu.com/p/1ffd9d3b1efd">微服务之网关聚合模式</a>
+
 <p>
  
 

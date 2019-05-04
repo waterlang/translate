@@ -21,8 +21,9 @@
   
   <a href="https://www.jianshu.com/p/9e5fd0c508cb"> 优雅地关闭spring boot应用程序</a><p>
   
-  <a href="https://www.jianshu.com/p/1ffd9d3b1efd">微服务之网关聚合模式</a>
+  <a href="https://www.jianshu.com/p/1ffd9d3b1efd">微服务之网关聚合模式</a><p>
 
+  <a href="https://www.jianshu.com/p/63792e787333">Spring Boot + Vue.js 例子| Spring Data JPA + REST + MySQL 增删改查</a>
 <p>
  
 

@@ -36,4 +36,6 @@
   
 ## 架构 <p>
  <a href="https://www.jianshu.com/p/66c584f451ba">用Java11实现整洁架构</a><p> 
+   
+<a href="https://www.jianshu.com/p/5fba9c674123">选择一个合适的架构</a><p> 
 

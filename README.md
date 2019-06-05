@@ -32,6 +32,7 @@
 <a href="https://www.jianshu.com/p/ce1bc6926085">Cassandra数据是怎么删除的？</a><p>
 <a href="https://www.jianshu.com/p/db4a626d952e">The primary key：Cassandra数据库中最重要的数据模型</a><p>
 <a href="https://www.jianshu.com/p/58bf9b92ff63">Cassandra数据建模的基本规则</a><p>
+<a href="https://www.jianshu.com/p/5ffe9f44f83c">Discord 是如何存储数十亿条消息</a><p>
 <p>
   
 ## 架构 <p>

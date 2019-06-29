@@ -39,4 +39,7 @@
  <a href="https://www.jianshu.com/p/66c584f451ba">用Java11实现整洁架构</a><p> 
    
 <a href="https://www.jianshu.com/p/5fba9c674123">选择一个合适的架构</a><p> 
+  
+<a href="https://www.jianshu.com/p/e819b39914c4">构建可扩展的搜索架构</a><p> 
+  
 

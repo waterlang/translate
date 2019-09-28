@@ -41,5 +41,8 @@
 <a href="https://www.jianshu.com/p/5fba9c674123">选择一个合适的架构</a><p> 
   
 <a href="https://www.jianshu.com/p/e819b39914c4">构建可扩展的搜索架构</a><p> 
-  
+ <p> 
+## 其他 <p>
+ <a href="https://www.jianshu.com/p/b65c57f4d45d">spring中的循环依赖解决方案</a><p> 
+
 

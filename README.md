@@ -50,5 +50,5 @@
    
 ## 其他 <p>
  <a href="https://www.jianshu.com/p/b65c57f4d45d">spring中的循环依赖解决方案</a><p> 
-
+ <a href="https://www.jianshu.com/p/7854aafbba59">我们是否真的需要配置redis的lettuce连接池？</a><p> 
 
